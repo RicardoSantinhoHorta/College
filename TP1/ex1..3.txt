@@ -1,0 +1,29 @@
+1-
+
+a) (1 + 2.236) / 2
+Tipo: Double
+Valor: 1.618
+b) 1 + 2 + 3 + 4.0
+Tipo: Double
+Valor: 10.0
+
+c) 4.1 >= 4
+Tipo: Boolean
+Valor: True
+
+d) 1 + 2 + "3"
+Tipo: String
+Valor:33
+
+2-
+
+a) b
+b) 197
+c) e
+
+
+3-
+Depende da maneira que olhamos para o código. Em si, "int [] a" está correto no
+que toca a sintaxe mas depois quando queremos usar o for loop, dará erro porque a lista
+não tem tamanho. Ora, o problema aqui pode ser o uso de um for loop para uma lista sem tamanho
+ou pode ser o uso de uma lista sem tamanho.
